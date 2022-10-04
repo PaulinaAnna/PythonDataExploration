@@ -1,0 +1,235 @@
+iso_code,continent,location,date,human_development_index,median_age,excess_mortality_cumulative_per_million,desc_mort
+AFG,Asia,Afghanistan,2021-10-31,0.511,18.6,,nd
+OWID_AFR,,Africa,2021-10-31,,,,nd
+ALB,Europe,Albania,2021-10-31,0.795,38.0,4576.99341509412,hight mortality
+DZA,Africa,Algeria,2021-10-31,0.748,29.1,,nd
+AND,Europe,Andorra,2021-10-31,0.868,,,nd
+AGO,Africa,Angola,2021-10-31,0.581,16.8,,nd
+AIA,North America,Anguilla,2021-10-31,,,,nd
+ATG,North America,Antigua and Barbuda,2021-10-31,0.778,32.1,,nd
+ARG,South America,Argentina,2021-10-31,0.845,31.9,,nd
+ARM,Asia,Armenia,2021-10-31,0.776,35.7,5627.11581171701,hight mortality
+ABW,North America,Aruba,2021-10-31,,41.2,,nd
+OWID_ASI,,Asia,2021-10-31,,,,nd
+AUS,Oceania,Australia,2021-10-31,0.944,37.9,-556.478953159111,mortality is lower
+AUT,Europe,Austria,2021-10-31,0.922,44.4,1271.00613596795,mortality a little bit higher
+AZE,Asia,Azerbaijan,2021-10-31,0.756,32.4,3370.75618310408,hight mortality
+BHS,North America,Bahamas,2021-10-31,0.814,34.3,,nd
+BHR,Asia,Bahrain,2021-10-31,0.852,32.4,,nd
+BGD,Asia,Bangladesh,2021-10-31,0.632,27.5,,nd
+BRB,North America,Barbados,2021-10-31,0.814,39.8,,nd
+BLR,Europe,Belarus,2021-10-31,0.823,40.3,,nd
+BEL,Europe,Belgium,2021-10-31,0.931,41.8,1496.08840323877,mortality a little bit higher
+BLZ,North America,Belize,2021-10-31,0.716,25.0,,nd
+BEN,Africa,Benin,2021-10-31,0.545,18.8,,nd
+BMU,North America,Bermuda,2021-10-31,,,,nd
+BTN,Asia,Bhutan,2021-10-31,0.654,28.6,,nd
+BOL,South America,Bolivia,2021-10-31,0.718,25.4,4073.95087744918,hight mortality
+BES,North America,Bonaire Sint Eustatius and Saba,2021-10-31,,,,nd
+BIH,Europe,Bosnia and Herzegovina,2021-10-31,0.78,42.5,,nd
+BWA,Africa,Botswana,2021-10-31,0.735,25.8,,nd
+BRA,South America,Brazil,2021-10-31,0.765,33.5,3136.75455127618,medium mortality
+VGB,North America,British Virgin Islands,2021-10-31,,,,nd
+BRN,Asia,Brunei,2021-10-31,0.838,32.4,,nd
+BGR,Europe,Bulgaria,2021-10-31,0.816,44.7,6597.34320478551,hight mortality
+BFA,Africa,Burkina Faso,2021-10-31,0.452,17.6,,nd
+BDI,Africa,Burundi,2021-10-31,0.433,17.5,,nd
+KHM,Asia,Cambodia,2021-10-31,0.594,25.6,,nd
+CMR,Africa,Cameroon,2021-10-31,0.563,18.8,,nd
+CAN,North America,Canada,2021-10-31,0.929,41.4,,nd
+CPV,Africa,Cape Verde,2021-10-31,0.665,25.7,,nd
+CYM,North America,Cayman Islands,2021-10-31,,,,nd
+CAF,Africa,Central African Republic,2021-10-31,0.397,18.3,,nd
+TCD,Africa,Chad,2021-10-31,0.398,16.7,,nd
+CHL,South America,Chile,2021-10-31,0.851,35.4,1853.37961048204,medium mortality
+CHN,Asia,China,2021-10-31,0.761,38.7,,nd
+COL,South America,Colombia,2021-10-31,0.767,32.2,3089.80398858569,medium mortality
+COM,Africa,Comoros,2021-10-31,0.554,20.4,,nd
+COG,Africa,Congo,2021-10-31,0.574,19.0,,nd
+COK,Oceania,Cook Islands,2021-10-31,,,,nd
+CRI,North America,Costa Rica,2021-10-31,0.81,33.6,,nd
+CIV,Africa,Cote d'Ivoire,2021-10-31,0.538,18.7,,nd
+HRV,Europe,Croatia,2021-10-31,0.851,44.0,2890.88475587243,medium mortality
+CUB,North America,Cuba,2021-10-31,0.783,43.1,,nd
+CUW,North America,Curacao,2021-10-31,,41.7,,nd
+CYP,Europe,Cyprus,2021-10-31,0.887,37.3,714.728154418781,mortality a little bit higher
+CZE,Europe,Czechia,2021-10-31,0.9,43.3,3151.49731648489,medium mortality
+COD,Africa,Democratic Republic of Congo,2021-10-31,0.48,17.0,,nd
+DNK,Europe,Denmark,2021-10-31,0.94,42.3,-45.6367138676091,mortality is lower
+DJI,Africa,Djibouti,2021-10-31,0.524,25.4,,nd
+DMA,North America,Dominica,2021-10-31,0.742,,,nd
+DOM,North America,Dominican Republic,2021-10-31,0.756,27.6,,nd
+ECU,South America,Ecuador,2021-10-31,0.759,28.1,3662.43649402403,hight mortality
+EGY,Africa,Egypt,2021-10-31,0.707,25.3,2490.57900190553,medium mortality
+SLV,North America,El Salvador,2021-10-31,0.673,27.6,,nd
+GNQ,Africa,Equatorial Guinea,2021-10-31,0.592,22.4,,nd
+ERI,Africa,Eritrea,2021-10-31,0.459,19.3,,nd
+EST,Europe,Estonia,2021-10-31,0.892,42.7,1773.78605903464,mortality a little bit higher
+SWZ,Africa,Eswatini,2021-10-31,0.611,21.5,,nd
+ETH,Africa,Ethiopia,2021-10-31,0.485,19.8,,nd
+OWID_EUR,,Europe,2021-10-31,,,,nd
+OWID_EUN,,European Union,2021-10-31,,,,nd
+FRO,Europe,Faeroe Islands,2021-10-31,,,-1826.5957229935,mortality is lower
+FLK,South America,Falkland Islands,2021-10-31,,,,nd
+FJI,Oceania,Fiji,2021-10-31,0.743,28.6,,nd
+FIN,Europe,Finland,2021-10-31,0.938,42.8,303.134565324787,mortality a little bit higher
+FRA,Europe,France,2021-10-31,0.901,42.0,1022.796713239,mortality a little bit higher
+PYF,Oceania,French Polynesia,2021-10-31,,32.7,,nd
+GAB,Africa,Gabon,2021-10-31,0.703,23.1,,nd
+GMB,Africa,Gambia,2021-10-31,0.496,17.5,,nd
+GEO,Asia,Georgia,2021-10-31,0.812,38.7,,nd
+DEU,Europe,Germany,2021-10-31,0.947,46.6,641.396876067597,mortality a little bit higher
+GHA,Africa,Ghana,2021-10-31,0.611,21.1,,nd
+GIB,Europe,Gibraltar,2021-10-31,,,,nd
+GRC,Europe,Greece,2021-10-31,0.888,45.3,1733.92524183648,mortality a little bit higher
+GRL,North America,Greenland,2021-10-31,,,-724.484771752128,mortality is lower
+GRD,North America,Grenada,2021-10-31,0.779,29.4,,nd
+GTM,North America,Guatemala,2021-10-31,0.663,22.9,,nd
+GGY,Europe,Guernsey,2021-10-31,,,,nd
+GIN,Africa,Guinea,2021-10-31,0.477,19.0,,nd
+GNB,Africa,Guinea-Bissau,2021-10-31,0.48,19.4,,nd
+GUY,South America,Guyana,2021-10-31,0.682,26.3,,nd
+HTI,North America,Haiti,2021-10-31,0.51,24.3,,nd
+OWID_HIC,,High income,2021-10-31,,,,nd
+HND,North America,Honduras,2021-10-31,0.634,24.9,,nd
+HKG,Asia,Hong Kong,2021-10-31,0.949,44.8,311.593051583519,mortality a little bit higher
+HUN,Europe,Hungary,2021-10-31,0.854,43.4,2640.15697473221,medium mortality
+ISL,Europe,Iceland,2021-10-31,0.949,37.3,23.5905334172108,mortality a little bit higher
+IND,Asia,India,2021-10-31,0.645,28.2,,nd
+IDN,Asia,Indonesia,2021-10-31,0.718,29.3,,nd
+OWID_INT,,International,2021-10-31,,,,nd
+IRN,Asia,Iran,2021-10-31,0.783,32.4,2880.69236808816,medium mortality
+IRQ,Asia,Iraq,2021-10-31,0.674,20.0,,nd
+IRL,Europe,Ireland,2021-10-31,0.955,38.7,464.628658308488,mortality a little bit higher
+IMN,Europe,Isle of Man,2021-10-31,,,,nd
+ISR,Asia,Israel,2021-10-31,0.919,30.6,749.531804972554,mortality a little bit higher
+ITA,Europe,Italy,2021-10-31,0.892,47.9,2585.30459226957,medium mortality
+JAM,North America,Jamaica,2021-10-31,0.734,31.4,,nd
+JPN,Asia,Japan,2021-10-31,0.919,48.2,-130.629877180625,mortality is lower
+JEY,Europe,Jersey,2021-10-31,,,,nd
+JOR,Asia,Jordan,2021-10-31,0.729,23.2,,nd
+KAZ,Asia,Kazakhstan,2021-10-31,0.825,30.6,3813.61201219818,hight mortality
+KEN,Africa,Kenya,2021-10-31,0.601,20.0,,nd
+KIR,Oceania,Kiribati,2021-10-31,0.63,23.2,,nd
+OWID_KOS,Europe,Kosovo,2021-10-31,,,3367.12277266058,hight mortality
+KWT,Asia,Kuwait,2021-10-31,0.806,33.7,,nd
+KGZ,Asia,Kyrgyzstan,2021-10-31,0.697,26.3,1995.36928286947,medium mortality
+LAO,Asia,Laos,2021-10-31,0.613,24.4,,nd
+LVA,Europe,Latvia,2021-10-31,0.866,43.9,2743.53565792899,medium mortality
+LBN,Asia,Lebanon,2021-10-31,0.744,31.1,1957.43897572975,medium mortality
+LSO,Africa,Lesotho,2021-10-31,0.527,22.2,,nd
+LBR,Africa,Liberia,2021-10-31,0.48,19.2,,nd
+LBY,Africa,Libya,2021-10-31,0.724,29.0,,nd
+LIE,Europe,Liechtenstein,2021-10-31,0.919,,1097.92440006274,mortality a little bit higher
+LTU,Europe,Lithuania,2021-10-31,0.882,43.5,5002.93323598014,hight mortality
+OWID_LIC,,Low income,2021-10-31,,,,nd
+OWID_LMC,,Lower middle income,2021-10-31,,,,nd
+LUX,Europe,Luxembourg,2021-10-31,0.916,39.7,-36.3886114672959,mortality is lower
+MAC,Asia,Macao,2021-10-31,,39.2,406.445410098255,mortality a little bit higher
+MDG,Africa,Madagascar,2021-10-31,0.528,19.6,,nd
+MWI,Africa,Malawi,2021-10-31,0.483,18.1,,nd
+MYS,Asia,Malaysia,2021-10-31,0.81,29.9,,nd
+MDV,Asia,Maldives,2021-10-31,0.74,30.6,,nd
+MLI,Africa,Mali,2021-10-31,0.434,16.4,,nd
+MLT,Europe,Malta,2021-10-31,0.895,42.4,659.755861267196,mortality a little bit higher
+MHL,Oceania,Marshall Islands,2021-10-31,0.704,,,nd
+MRT,Africa,Mauritania,2021-10-31,0.546,20.3,,nd
+MUS,Africa,Mauritius,2021-10-31,0.804,37.4,-148.104172359961,mortality is lower
+MEX,North America,Mexico,2021-10-31,0.779,29.3,4642.5794063697,hight mortality
+FSM,Oceania,Micronesia (country),2021-10-31,0.62,23.0,,nd
+MDA,Europe,Moldova,2021-10-31,0.75,37.6,3356.83799181168,hight mortality
+MCO,Europe,Monaco,2021-10-31,,,3248.98785425101,medium mortality
+MNG,Asia,Mongolia,2021-10-31,0.737,28.6,-5.58679018479059,mortality is lower
+MNE,Europe,Montenegro,2021-10-31,0.829,39.1,4193.44925810165,hight mortality
+MSR,North America,Montserrat,2021-10-31,,,,nd
+MAR,Africa,Morocco,2021-10-31,0.686,29.6,,nd
+MOZ,Africa,Mozambique,2021-10-31,0.456,17.7,,nd
+MMR,Asia,Myanmar,2021-10-31,0.583,29.1,,nd
+NAM,Africa,Namibia,2021-10-31,0.646,22.0,,nd
+NRU,Oceania,Nauru,2021-10-31,,,,nd
+NPL,Asia,Nepal,2021-10-31,0.602,25.0,,nd
+NLD,Europe,Netherlands,2021-10-31,0.944,43.2,1185.85503579029,mortality a little bit higher
+NCL,Oceania,New Caledonia,2021-10-31,,33.4,,nd
+NZL,Oceania,New Zealand,2021-10-31,0.931,37.9,-544.544798392603,mortality is lower
+NIC,North America,Nicaragua,2021-10-31,0.66,27.3,,nd
+NER,Africa,Niger,2021-10-31,0.394,15.1,,nd
+NGA,Africa,Nigeria,2021-10-31,0.539,18.1,,nd
+NIU,Oceania,Niue,2021-10-31,,,,nd
+OWID_NAM,,North America,2021-10-31,,,,nd
+MKD,Europe,North Macedonia,2021-10-31,0.774,39.1,6101.90520684835,hight mortality
+OWID_CYN,Asia,Northern Cyprus,2021-10-31,,,,nd
+NOR,Europe,Norway,2021-10-31,0.957,39.7,-38.952515803762,mortality is lower
+OWID_OCE,,Oceania,2021-10-31,,,,nd
+OMN,Asia,Oman,2021-10-31,0.813,30.7,806.834507031468,mortality a little bit higher
+PAK,Asia,Pakistan,2021-10-31,0.557,23.5,,nd
+PLW,Oceania,Palau,2021-10-31,0.826,,,nd
+PSE,Asia,Palestine,2021-10-31,0.708,20.4,,nd
+PAN,North America,Panama,2021-10-31,0.815,29.7,1712.48610376661,mortality a little bit higher
+PNG,Oceania,Papua New Guinea,2021-10-31,0.555,22.6,,nd
+PRY,South America,Paraguay,2021-10-31,0.728,26.5,2693.34721768021,medium mortality
+PER,South America,Peru,2021-10-31,0.777,29.1,6403.69143163931,hight mortality
+PHL,Asia,Philippines,2021-10-31,0.718,25.2,1831.36838296536,medium mortality
+POL,Europe,Poland,2021-10-31,0.88,41.8,3132.9444135778,medium mortality
+PRT,Europe,Portugal,2021-10-31,0.864,46.2,1825.97763574724,mortality a little bit higher
+QAT,Asia,Qatar,2021-10-31,0.848,31.9,305.269637784915,mortality a little bit higher
+ROU,Europe,Romania,2021-10-31,0.828,43.0,4733.49431392219,hight mortality
+RUS,Europe,Russia,2021-10-31,0.824,39.6,6110.39781218302,hight mortality
+RWA,Africa,Rwanda,2021-10-31,0.543,20.3,,nd
+SHN,Africa,Saint Helena,2021-10-31,,,,nd
+KNA,North America,Saint Kitts and Nevis,2021-10-31,0.779,,,nd
+LCA,North America,Saint Lucia,2021-10-31,0.759,34.9,,nd
+SPM,North America,Saint Pierre and Miquelon,2021-10-31,,,,nd
+VCT,North America,Saint Vincent and the Grenadines,2021-10-31,0.738,31.8,,nd
+WSM,Oceania,Samoa,2021-10-31,0.715,22.0,,nd
+SMR,Europe,San Marino,2021-10-31,,,3522.49338429874,hight mortality
+STP,Africa,Sao Tome and Principe,2021-10-31,0.625,18.7,,nd
+SAU,Asia,Saudi Arabia,2021-10-31,0.854,31.9,,nd
+SEN,Africa,Senegal,2021-10-31,0.512,18.7,,nd
+SRB,Europe,Serbia,2021-10-31,0.806,41.2,5875.7365699456,hight mortality
+SYC,Africa,Seychelles,2021-10-31,0.796,36.2,,nd
+SLE,Africa,Sierra Leone,2021-10-31,0.452,19.1,,nd
+SGP,Asia,Singapore,2021-10-31,0.938,42.4,187.142438022591,mortality a little bit higher
+SXM,North America,Sint Maarten (Dutch part),2021-10-31,,,,nd
+SVK,Europe,Slovakia,2021-10-31,0.86,41.2,3387.48125895762,hight mortality
+SVN,Europe,Slovenia,2021-10-31,0.917,44.5,1837.95532160851,medium mortality
+SLB,Oceania,Solomon Islands,2021-10-31,0.567,20.8,,nd
+SOM,Africa,Somalia,2021-10-31,,16.8,,nd
+ZAF,Africa,South Africa,2021-10-31,0.709,27.3,3835.01574464646,hight mortality
+OWID_SAM,,South America,2021-10-31,,,,nd
+KOR,Asia,South Korea,2021-10-31,0.916,43.4,22.6955623041913,mortality a little bit higher
+SSD,Africa,South Sudan,2021-10-31,0.433,19.2,,nd
+ESP,Europe,Spain,2021-10-31,0.904,45.5,2024.42556094142,medium mortality
+LKA,Asia,Sri Lanka,2021-10-31,0.782,34.1,,nd
+SDN,Africa,Sudan,2021-10-31,0.51,19.7,,nd
+SUR,South America,Suriname,2021-10-31,0.738,29.6,,nd
+SWE,Europe,Sweden,2021-10-31,0.945,41.0,884.484189666717,mortality a little bit higher
+CHE,Europe,Switzerland,2021-10-31,0.955,43.1,1046.52702417098,mortality a little bit higher
+SYR,Asia,Syria,2021-10-31,0.567,21.7,,nd
+TWN,Asia,Taiwan,2021-10-31,,42.2,-223.768526927344,mortality is lower
+TJK,Asia,Tajikistan,2021-10-31,0.668,23.3,,nd
+TZA,Africa,Tanzania,2021-10-31,0.529,17.7,,nd
+THA,Asia,Thailand,2021-10-31,0.777,40.1,671.085541155157,mortality a little bit higher
+TLS,Asia,Timor,2021-10-31,0.606,18.0,,nd
+TGO,Africa,Togo,2021-10-31,0.515,19.4,,nd
+TON,Oceania,Tonga,2021-10-31,0.725,22.3,,nd
+TTO,North America,Trinidad and Tobago,2021-10-31,0.796,36.2,,nd
+TUN,Africa,Tunisia,2021-10-31,0.74,32.7,,nd
+TUR,Asia,Turkey,2021-10-31,0.82,31.6,,nd
+TCA,North America,Turks and Caicos Islands,2021-10-31,,,,nd
+UGA,Africa,Uganda,2021-10-31,0.544,16.4,,nd
+UKR,Europe,Ukraine,2021-10-31,0.779,41.4,2860.91769027881,medium mortality
+ARE,Asia,United Arab Emirates,2021-10-31,0.89,34.0,,nd
+GBR,Europe,United Kingdom,2021-10-31,0.932,40.8,1809.64994355281,mortality a little bit higher
+USA,North America,United States,2021-10-31,0.926,38.3,2601.97349910326,medium mortality
+OWID_UMC,,Upper middle income,2021-10-31,,,,nd
+URY,South America,Uruguay,2021-10-31,0.817,35.6,744.185619450744,mortality a little bit higher
+UZB,Asia,Uzbekistan,2021-10-31,0.72,28.2,1145.23423886275,mortality a little bit higher
+VUT,Oceania,Vanuatu,2021-10-31,0.609,23.1,,nd
+VAT,Europe,Vatican,2021-10-31,,,,nd
+VEN,South America,Venezuela,2021-10-31,0.711,29.0,,nd
+VNM,Asia,Vietnam,2021-10-31,0.704,32.6,,nd
+WLF,Oceania,Wallis and Futuna,2021-10-31,,,,nd
+OWID_WRL,,World,2021-10-31,0.737,30.9,,nd
+YEM,Asia,Yemen,2021-10-31,0.47,20.3,,nd
+ZMB,Africa,Zambia,2021-10-31,0.584,17.7,,nd
+ZWE,Africa,Zimbabwe,2021-10-31,0.571,19.6,,nd
