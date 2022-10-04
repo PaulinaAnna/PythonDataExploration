@@ -72,11 +72,6 @@ df_hm.describe().to_csv('./summary_hm.csv')
 #Comparing data summaries for countires with high mortality to the general data we can observe that both median age
 # and quality of life are higher.
 
-#wrting data to excel
-
-
-#saving data to excel
-df_f.to_excel('./project.xls', sheet_name = 'filtered_owid_data', index = False)
 
 # Import libraries
 
@@ -87,7 +82,7 @@ df_f = pd.read_csv('filtered_owid-covid-data.csv')
 
 list_countries = df_f['location'].unique().tolist()
 
-# print list of countries
+# print list of countries and add code if not in the file
 
 print( list_countries )
 
